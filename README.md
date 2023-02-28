@@ -14,20 +14,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=MathiMSK&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-<h1 align="center">Hi 👋, I'm MathiMSK</h1>
-<h3 align="center">on the way to FULL STACK Developer with Mern Stack</h3>
-
-- 🌱 I’m currently learning **ReactJs,nodeJs,MongoDB**
-
-- 📫 How to reach me **mathimsk8@gmail.com**
-
-- ⚡ Fun fact **I think Iam Good at smilingAlways**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mathi msk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mathi msk" height="30" width="40" /></a>
