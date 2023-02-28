@@ -19,9 +19,9 @@
 
 
  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />
+         alt="boy working gif"
+         height="100"
+         width="100" />
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
