@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **codiis** as **intern**
 
 
-![alt text](https://github.com/MathiMSK/MathiMSK/blob/main/gif.gif?raw=true)
+
  <img src="gif.gif" 
          alt="boy working gif"
          height="100%"
