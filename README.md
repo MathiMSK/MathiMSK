@@ -1,5 +1,6 @@
-# 💫 About Me:
+
 <h1 align="center">Hi 👋, I'm MathiMSK</h1>
+# 💫 About Me:
 <h3 align="center">on the way to FULL STACK Developer with Mern Stack</h3>
 
 - 🌱 I’m currently learning **ReactJs,nodeJs,MongoDB**
@@ -7,7 +8,7 @@
 - 📫 How to reach me **mathimsk8@gmail.com**
 
 - ⚡ Fun fact **I think Iam Good at smilingAlways**
-- 🏢 iam currently working on **codiis** as **intern**
+- 🏢 I’m currently working on **codiis** as **intern**
 
 
 ### ✍️ Random Dev Quote
