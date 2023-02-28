@@ -14,7 +14,7 @@
 - 📫 How to reach me **mathimsk8@gmail.com**
 
 - ⚡ Fun fact **I think Iam Good at smilingAlways**
-- 🔭 I’m currently working on **codiis** as **intern**
+- 🔭 I’m currently working on **CODIIS** as **intern**
 
 
 
