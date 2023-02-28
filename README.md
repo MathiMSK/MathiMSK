@@ -18,10 +18,10 @@
 
 
 
- <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" 
+ <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" 
          alt="boy working gif"
-         height="100"
-         width="100" />
+         height="100%"
+         width="100%" />
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
