@@ -18,7 +18,7 @@
 
 
 
- <img src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53.gif" 
+ <img src="gif.gif" 
          alt="boy working gif"
          height="100%"
          width="100%" />
