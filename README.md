@@ -6,7 +6,7 @@
          width="45" />
   , I'm MathiMSK
 </h1>
-💫 **About Me:**
+💫 About Me:
 <h3 align="center">on the way to FULL STACK Developer with Mern Stack</h3>
 
 - 🌱 I’m currently learning **ReactJs,nodeJs,MongoDB**
