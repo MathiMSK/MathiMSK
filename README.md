@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think Iam Good at smiling but Not Always**
 - 🔭 I’m currently working on **CODIIS** as **Junior Software Developer** @ **IIT Madras Research Park**
-- 😜 Learning is Fun
+- 😜 Learning is Fun,try it **Now**
 
 
 
