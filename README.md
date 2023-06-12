@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mathimsk8@gmail.com**
 
-- ⚡ Fun fact **I think Iam Good at smilingAlways**
+- ⚡ Fun fact **I think Iam Good at smiling but Not Always**
 - 🔭 I’m currently working on **CODIIS** as **Junior Software Developer** @ **IIT Madras Research Park**
 
 
