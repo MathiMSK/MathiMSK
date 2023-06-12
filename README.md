@@ -7,9 +7,9 @@
   , I'm MathiMSK
 </h1>
 💫 About Me:
-<h3 align="center">on the way to FULL STACK Developer with Mern Stack</h3>
+<h3 align="center"> FULL STACK Developer </h3>
 
-- 🌱 I’m currently learning **MERN Stack*
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **mathimsk8@gmail.com**
 
