@@ -9,7 +9,7 @@
 💫 About Me:
 <h3 align="center">on the way to FULL STACK Developer with Mern Stack</h3>
 
-- 🌱 I’m currently learning **ReactJs,nodeJs,MongoDB**
+- 🌱 I’m currently learning **MERN Stack*
 
 - 📫 How to reach me **mathimsk8@gmail.com**
 
